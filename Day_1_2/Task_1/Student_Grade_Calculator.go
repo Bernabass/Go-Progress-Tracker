@@ -67,5 +67,5 @@ func main() {
 	fmt.Println("----------------------")
 	fmt.Printf("AVERAGE GRADE: %.2f\n", average)
 	fmt.Println("----------------------")
-	fmt.Println("SHALAMGANDO !!!")
+	fmt.Println("SHALAMGANDIT !!!")
 }
